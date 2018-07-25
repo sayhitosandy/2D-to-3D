@@ -2,7 +2,7 @@
 
 A system that creates a 3D scene using objects synthesized from paper drawings and sketches.
 
-### Links: 
+#### Links: 
 - [*Proposal*](https://github.com/sayhitosandy/2D-to-3D/blob/master/Proposal.pdf)  
 - [*Presentation*](https://github.com/sayhitosandy/2D-to-3D/blob/master/2D%20Cartoon%20Sketches%20to%203D%20Models.pdf)
 - [*Report*](https://github.com/sayhitosandy/2D-to-3D/blob/master/Final%20Submission/Group3_report.pdf)
